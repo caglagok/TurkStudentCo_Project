@@ -1,0 +1,49 @@
+Soru: Kullanıcıdan iki sayı alarak bu sayıları toplayan bir programın pseudo kodunu yazın
+Başla
+    Kullanıcıdan birinci sayıyı al ve x değişkenine ata
+    Kullanıcıdan ikinci sayıyı al ve y değişkenine ata
+    x ve y sayılarını topla, sonucu z değişkenine ata
+    z değerini ekrana yazdır
+Bitiş
+
+
+Soru: 1'den 100'e kadar olan sayıları toplayan bir programın pseudo kodunu yazın
+
+Başla
+    Toplamı 1 olarak başlat
+    1'den 100'e kadar olan sayılar için:
+        Her bir sayıyı toplam değişkenine ekle
+    Sonucu ekrana yazdır
+Bitiş
+
+
+Soru: Kulanıcıdan alınan bir sayının asal olup olmadığını bulan bir programın pseudo kodunu yazın.
+
+Başla
+    Kullanıcıdan bir sayı al ve x değişkenine ata
+    Eğer x <= 1 ise:
+        x asal değildir mesajını yazdır
+    Aksi halde:
+        2'den x'e kadar olan sayılar için:
+            Eğer x, i'ye tam bölünüyorsa:
+                x asal değildir mesajını yazdır ve döngüden çık
+        Eğer döngü hiç bölünmeden bittiyse:
+            x asaldır mesajını yazdır
+Bitiş
+
+
+Soru: Bir dizideki (array) elemanların tekrar edip etmediğini kontrol eden bir programın pseudo kodunu yazın.
+
+Başla
+    Bir örnek dizi tanımla
+    Tekrar eden elemanları saklamak için boş bir liste oluştur
+    Dizideki her bir eleman için:
+        Diğer elemanlarla karşılaştır
+        Eğer bir eleman tekrar ediyorsa:
+            Eğer bu eleman daha önce tekrar edenler listesine eklenmediyse:
+                Bu elemanı tekrar edenler listesine ekle
+    Eğer tekrar eden elemanlar varsa:
+        Her birini ekrana yazdır
+    Aksi halde:
+        Tekrar eden eleman yok mesajını yazdır
+Bitiş
