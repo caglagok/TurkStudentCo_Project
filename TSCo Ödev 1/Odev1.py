@@ -13,10 +13,10 @@ Birinci sayi giriniz: 2
 """
 # Soru: 1'den 100'e kadar olan sayıları toplayan bir programın pseudo kodunu yazın
 
-x = 1
+sum = 1
 for x in range(1 , 100):
-    x += x
-print(x)
+    sum += x
+print(sum)
 
 """
 ÇIKTI
