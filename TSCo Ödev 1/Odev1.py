@@ -20,7 +20,7 @@ print(x)
 
 """
 ÇIKTI
-198
+5050
 """
 
 # Soru: Kulanıcıdan alınan bir sayının asal olup olmadığını bulan bir programın pseudo kodunu yazın.
